@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VikrantGholse
 - 👀 I’m interested in numbers
 - 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on insta
+- 💞️ I’m looking to collaborate on Linkedin (https://www.linkedin.com/in/vikrantgholse23/)
 - 📫 How to reach me vikrantgholse23@gmail.com
 
 <!---
